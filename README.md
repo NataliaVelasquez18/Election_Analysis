@@ -1,13 +1,14 @@
 # Overview of election audit: 
 
-Explain the purpose of this election audit analysis
+This report is done with the purpose of assiting the Colorado Board of Elections in the election audit for the US congressional prescient in Colorado. 
 
+The analysis consists in reporting the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote.
 
+This process could be done using excel but will be automated using Python.
+
+There are several voting methods taken into account: Mail-in Ballot, punch cards, and direct recording electronic.  These three methods will determine the final election results. After the votes are counted, this audit generates a vote count report to certify this US congressional race.
 
 ## Election-Audit Results:
-
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
 
 * How many votes were cast in this congressional election?
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -21,5 +22,6 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 ## Election-Audit Summary: 
 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+and the code written will be used at other congressional districts, senatorial districts, and local elections.
 
 
