@@ -1,4 +1,4 @@
-# OVERVIEW OF ELECTION AUDIT: 
+# Overview of election audit: 
 
 Explain the purpose of this election audit analysis
 
