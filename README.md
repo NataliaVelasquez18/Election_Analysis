@@ -45,8 +45,10 @@ The following are some examples of how this can be done:
 
 * An example of how we can re-use the code is by replacing in the following piece of code the name of any csv file with the tabulated results:
 
-<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="350" height="150" />
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="380" height="180" />
 
 * As we saw in point #1 in our tabulated results spreadsheet the County name is in the second column and the Candidate name is in the third column.  We only need to know the order of the columns and what each one represents to replace in the following piece of code.
 
-<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/columns.png" width="350" height="150" />
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/columns.png" width="380" height="180" />
+
+To sum up, our recommendation for the Elections Comission is to use the code contain in this analysis for future elections.  This will save many hours of skilled work and money, and will warranty the election results are known in a timely manner.
