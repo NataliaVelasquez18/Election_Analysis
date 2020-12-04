@@ -27,7 +27,12 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 
 ## Election-Audit Summary: 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-and the code written will be used at other congressional districts, senatorial districts, and local elections.
+This analysis could have been done using excel but we prefered to automate the process using Python.  The reason why we used Python is because we propose to the Election Comission that the code writen here can be used at other congressional districts, senatorial districts, and local elections.
+
+The following are some examples of how this can be done:
+
+* Having a csv file with the tabulated results such as the following:
+
+
 
 
