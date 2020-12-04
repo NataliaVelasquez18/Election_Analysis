@@ -43,7 +43,7 @@ The following are some examples of how this can be done:
 
 * Despite being an open source software, the information processed in the program remains confidential and will only be stored in the organization's computer.
 
-* An example of how we can re-use the code is by replacing in the following piece of code the name of your csv file with the tabulated results:
+* An example of how we can re-use the code is by replacing in the following piece of code the name of any csv file with the tabulated results:
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="350" height="150" />
 
