@@ -8,19 +8,26 @@ This process could be done using excel but will be automated using Python.
 
 There are several voting methods taken into account: Mail-in Ballot, punch cards, and direct recording electronic.  These three methods will determine the final election results. After the votes are counted, this audit generates a vote count report to certify this US congressional race.
 
-## Election-Audit Results:
-
+## Election-Audit Results:                                 
+<p align = "right">
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="200" height="200" />
 * 369,711 votes were cast in this congressional election.
-* The following are the Votes and percentages for each county in the precint: Jefferson: 10.5% (38,855), Denver: 82.8% (306,055), and Arapahoe: 6.7% (24,801).
+
+* The following are the Votes and percentages for each county in the precint: 
+Jefferson: 10.5% (38,855), Denver: 82.8% (306,055), and Arapahoe: 6.7% (24,801).
+
 * Denver was the county with the largest number of votes.
-* Here is the breakdown of the number of votes and the percentage of the total votes each candidate received: Charles Casper Stockham: 23.0% (85,213), Diana      DeGette: 73.8% (272,892), Raymon Anthony Doane: 3.1% (11,606).
+
+* Here is the breakdown of the number of votes and the percentage of the total votes each candidate received: 
+Charles Casper Stockham: 23.0% (85,213), Diana      DeGette: 73.8% (272,892), Raymon Anthony Doane: 3.1% (11,606).
+
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ![Election_results](Resources/Election_results.png width=100)
 https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png
 
-<p align = "center">
-<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="100" height="100" />
+<p align = "right">
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="200" height="200" />
 
 
 ## Election-Audit Summary: 
