@@ -41,5 +41,5 @@ The following are some examples of how this can be done:
 
 * An example of how the code can be re-used is by replacing in the following piece of code the name of your csv file:
 
-<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="250" height="250" />
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="250" height="100" />
 
