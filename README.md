@@ -47,7 +47,7 @@ The following are some examples of how this can be done:
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="400" height="200" />
 
-* As we saw in point #1 in our tabulated results spreadsheet the County name is in the second column and the Candidate name is in the third column.  We only need to know the order of the columns and what each one represents to replace in the following piece of code.
+* As we saw in point #1 in our tabulated results spreadsheet the County name is in the second column and the Candidate name is in the third column.  We only need to know the order of the columns and what each one represents to replace in the following piece of code and make the code match any csv file.
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/columns.png" width="400" height="200" />
 
