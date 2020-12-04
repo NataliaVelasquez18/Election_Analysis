@@ -21,7 +21,7 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 <p align = "center">
-<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="200" height="200" />
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="250" height="250" />
 
 
 ## Election-Audit Summary: 
