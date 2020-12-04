@@ -27,7 +27,9 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 
 ## Election-Audit Summary: 
 
-This analysis could have been done using excel but we prefered to automate the process using Python.  The reason why we used Python is because we propose to the Election Comission that the code writen here can be used at other congressional districts, senatorial districts, and local elections.
+This analysis could have been done using excel but we prefered to automate the process using Python.  The reason why we used Python is because we want to save time in future analysis of this same nature.
+
+We propose to the Election Comission that the code writen here can be re-used at other congressional districts, senatorial districts, and local elections.
 
 The following are some examples of how this can be done:
 
@@ -37,12 +39,14 @@ The following are some examples of how this can be done:
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/csv_file.png" width="250" height="250" />
 
 
-* Python version 3 will be installed in the computer we will perform the analysis.  It is an open source program which means it's free
+* Python version 3 will be installed in the computer we will perform the analysis.  It is an open source software which means it's free for any organization
 
-* An example of how we can re-use the code is by replacing in the following piece of code the name of your csv file:
+* Despite being an open source software, the information processed in the program remains confidential and will only be stored in the organization's computer.
+
+* An example of how we can re-use the code is by replacing in the following piece of code the name of your csv file with the tabulated results:
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="350" height="150" />
 
-* Another example. With the following piece of code, we will make sure that we replace with the apropriate column to match the csv file previously used:
+* Another example. With the following piece of code, we will replace with the apropriate column index to match any csv file.  In this case we have in the County name in the second column and the Candidate name in the third column.  We only need to know the order of the columns and what each one represents.
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/columns.png" width="350" height="150" />
