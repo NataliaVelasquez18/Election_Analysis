@@ -11,6 +11,8 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 ## Election-Audit Results:                                 
 <p align = "right">
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="200" height="200" />
+  
+  
 * 369,711 votes were cast in this congressional election.
 
 * The following are the Votes and percentages for each county in the precint: 
