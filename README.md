@@ -1,4 +1,4 @@
-# Overview of election audit: 
+# Overview of Election Audit: 
 
 This report is done with the purpose of assiting the Colorado Board of Elections in the election audit for the US congressional prescient in Colorado. 
 
@@ -19,6 +19,7 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 * Here is the breakdown of the number of votes and the percentage of the total votes each candidate received: Charles Casper Stockham: 23.0% (85,213), Diana      DeGette: 73.8% (272,892), Raymon Anthony Doane: 3.1% (11,606).
 
 * Diana DeGette won the elections with a vote count of (272,892), representing a  73.8%  of the total votes.
+
 
 <p align = "center">
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/Election_results.png" width="250" height="250" />
