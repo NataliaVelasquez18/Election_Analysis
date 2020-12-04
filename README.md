@@ -31,7 +31,7 @@ This analysis could have been done using excel but we prefered to automate the p
 
 The following are some examples of how this can be done:
 
-* Having a csv file with the tabulated results such as the following:
+* Having a csv file with the tabulated results in three columns such as the following:
 
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/csv_file.png" width="250" height="250" />
