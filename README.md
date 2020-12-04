@@ -31,15 +31,17 @@ This analysis could have been done using excel but we prefered to automate the p
 
 The following are some examples of how this can be done:
 
-* Having a csv file with the tabulated election results such as the following:
+* We will have a csv file with the tabulated election results such as the following:
 
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/csv_file.png" width="250" height="250" />
 
 
-* Having Python version 3 installed in your machine.  It is an open source program which means it's free
+* Python version 3 will be installed in the computer we will perform the analysis.  It is an open source program which means it's free
 
-* An example of how the code can be re-used is by replacing in the following piece of code the name of your csv file:
+* An example of how we can re-use the code is by replacing in the following piece of code the name of your csv file:
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="350" height="150" />
+
+* Another example. With the following piece of code, we will make sure that
 
