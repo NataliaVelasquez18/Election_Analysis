@@ -43,5 +43,6 @@ The following are some examples of how this can be done:
 
 <img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/your_file_name.png" width="350" height="150" />
 
-* Another example. With the following piece of code, we will make sure that
+* Another example. With the following piece of code, we will make sure that we replace with the apropriate column to match the csv file previously used:
 
+<img src="https://github.com/nativelasquez-austin/Election_Analysis/blob/main/Resources/columns.png" width="350" height="150" />
