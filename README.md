@@ -3,13 +3,20 @@
 
 # Overview of Election Audit: 
 
-This report is done with the purpose of assiting the Colorado Board of Elections in the election audit for the US congressional prescient in Colorado. 
+## Description:
 
 The analysis consists in reporting the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote.
 
-This process could be done using excel but will be automated using Python.
+## Purpose: 
+
+This report is done with the purpose of assiting the Colorado Board of Elections in the election audit for the US congressional prescient in Colorado. 
+
+## Overview of Approach: 
 
 There are several voting methods taken into account: Mail-in Ballot, punch cards, and direct recording electronic.  These three methods will determine the final election results. After the votes are counted, this audit generates a vote count report to certify this US congressional race.
+
+This process could be done using excel but will be automated using Python, we used VS Code as a tool to write and run the code. The code is in the file named "PyPoll_Challenge.py", the data for the analysis is in the Resources folder and it is a csv file named "election_results.csv" and contains aproximately 370,000 rows. 
+
 
 ## Election-Audit Results:                                 
   
@@ -21,7 +28,7 @@ There are several voting methods taken into account: Mail-in Ballot, punch cards
 
 * Here is the breakdown of the number of votes and the percentage of the total votes each candidate received: Charles Casper Stockham: 23.0% (85,213), Diana      DeGette: 73.8% (272,892), Raymon Anthony Doane: 3.1% (11,606).
 
-* Diana DeGette won the elections with a vote count of (272,892), representing a  73.8%  of the total votes.
+* **Diana DeGette won the elections** with a vote count of (272,892), representing a  73.8%  of the total votes.
 
 
 <p align = "center">
