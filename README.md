@@ -1,3 +1,6 @@
+![vote.png](Resources/vote.png)
+
+
 # Overview of Election Audit: 
 
 This report is done with the purpose of assiting the Colorado Board of Elections in the election audit for the US congressional prescient in Colorado. 
